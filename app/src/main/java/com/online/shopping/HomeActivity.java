@@ -1,5 +1,4 @@
 package com.online.shopping;
-
 import android.content.Intent;
 import android.support.annotation.Nullable;
 import android.support.design.widget.TabLayout;

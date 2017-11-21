@@ -1,5 +1,4 @@
 package com.online.shopping;
-
 import android.view.View;
 import android.widget.TextView;
 import com.thoughtbot.expandablerecyclerview.models.ExpandableGroup; // Third party library for expandable recycler view

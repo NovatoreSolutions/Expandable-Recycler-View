@@ -1,5 +1,4 @@
 package com.online.shopping;
-
 import android.os.Parcel;
 import android.os.Parcelable;
 public class SubCategories implements Parcelable {
